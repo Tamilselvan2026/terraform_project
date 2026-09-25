@@ -1,0 +1,8 @@
+ami_id = "value"    
+aws_region = "value"
+availability_zones = ["value1", "value2"]   
+key_name = "value"
+instance_type = "value"
+private_subnet_cidrs = [ "value" ]
+public_subnet_cidrs = [ "value" ]
+notification_email = "value"    
